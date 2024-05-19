@@ -2,10 +2,9 @@ How to run :
 
 to run install libraries in directory :pip install pandas matplotlib openai yfinance streamlit
 pip install pandas matplotlib openai yfinance streamlit
-just insert your api key in the openai api key file
-in the API_KEY file
+just insert your openai api key in the API_KEY file
 
-Financial Virtual Assistant does following tasks for u :
+Financial Virtual Assistant does following tasks for you :
 
 Functionalities:
 
